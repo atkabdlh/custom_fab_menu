@@ -1,0 +1,88 @@
+# Dart-related
+*.dart_tool/
+*.packages
+.packages
+.pub-cache/
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# Android-specific
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/build/
+**/*.iml
+
+# iOS-specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/FlutterPluginRegistrant/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcworkspace/
+
+# macOS-specific
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.podspec
+macos/Pods/
+macos/.symlinks/
+macos/build/
+
+# Web-specific
+web/.dart_tool/
+web/build/
+
+# Windows-specific
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant_plugins.cc
+windows/flutter/generated_plugin_registrant_plugins.h
+windows/flutter/generated_plugin_registrant_plugins_extern.cc
+windows/flutter/generated_plugin_registrant_plugins_extern.h
+windows/flutter/generated_plugin_registrant_plugins_static.cc
+windows/flutter/generated_plugin_registrant_plugins_static.h
+windows/build/
+
+# Linux-specific
+linux/flutter/ephemeral/
+linux/build/
+
+# VSCode-specific
+.vscode/
+.idea/
+*.iml
+
+# IntelliJ / Android Studio
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Flutter-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+
+# Test result files
+coverage/
+
+# macOS
+.DS_Store
+
+# Temp files
+*.tmp
+*.swp
+*~
